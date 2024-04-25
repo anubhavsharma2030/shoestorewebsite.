@@ -1,2 +1,2 @@
 # shoestorewebsite.
-online shoe wesbite
+online shoe website
